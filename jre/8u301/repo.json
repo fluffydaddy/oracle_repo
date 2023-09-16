@@ -1,0 +1,201 @@
+{
+	"majorVersion":8,
+	"minorVersion":"301",
+	"files": [
+		{
+			"os": {
+				"name":"linux",
+				"arch":"i586"
+			},
+			"file": {
+				"type":"rpm",
+				"name":"jre-8u301-linux-i586.rpm"
+			},
+			"url":"https://javadl.oracle.com/webapps/download/GetFile/1.8.0_301-b09/d3c52aa6bfa54d3ca74e617f18309292/linux-i586/jre-8u301-linux-i586.rpm",
+			"size":61704704,
+			"totalSize":61706240,
+			"sha256":"14096d74d692cc82e2856dae14fd1827e289565db402f6948e597eda6ed8856f",
+			"md5":"e1ff176dc2cf40ad8efc9457fbf17319"
+		},
+		{
+			"os": {
+				"name":"linux",
+				"arch":"i586"
+			},
+			"file": {
+				"type":"tar.gz",
+				"name":"jre-8u301-linux-i586.tar.gz"
+			},
+			"url":"https://javadl.oracle.com/webapps/download/GetFile/1.8.0_301-b09/d3c52aa6bfa54d3ca74e617f18309292/linux-i586/jre-8u301-linux-i586.tar.gz",
+			"size":92243825,
+			"totalSize":92246016,
+			"sha256":"ee377427586a998e676e5de623f3298d51dbb648c578934e7829736fec2987ba",
+			"md5":"29a6e0e26f7a530835f013c9e52e1a98"
+		},
+		{
+			"os": {
+				"name":"linux",
+				"arch":"x64"
+			},
+			"file": {
+				"type":"rpm",
+				"name":"jre-8u301-linux-x64.rpm"
+			},
+			"url":"https://javadl.oracle.com/webapps/download/GetFile/1.8.0_301-b09/d3c52aa6bfa54d3ca74e617f18309292/linux-i586/jre-8u301-linux-x64.rpm",
+			"size":61318616,
+			"totalSize":61321216,
+			"sha256":"b52faf6d81890f479e7a5a7246bdc775e1ec860e485449414241dac101bde6ed",
+			"md5":"da3b9b5c7769e843713e7e8318636f11"
+		},
+		{
+			"os": {
+				"name":"linux",
+				"arch":"x64"
+			},
+			"file": {
+				"type":"tar.gz",
+				"name":"jre-8u301-linux-x64.tar.gz"
+			},
+			"url":"https://javadl.oracle.com/webapps/download/GetFile/1.8.0_301-b09/d3c52aa6bfa54d3ca74e617f18309292/linux-i586/jre-8u301-linux-x64.tar.gz",
+			"size":92441692,
+			"totalSize":92442624,
+			"sha256":"aa15533de2260d058d7d44d9ea210f9d5bb0db5e81fb6594e2ae2f43cd47f406",
+			"md5":"a1f5c0383e7e3148e3ad275668588055"
+		},
+		{
+			"os": {
+				"name":"macosx",
+				"arch":"x64"
+			},
+			"file": {
+				"type":"dmg",
+				"name":"jre-8u301-macosx-x64.dmg"
+			},
+			"url":"https://javadl.oracle.com/webapps/download/GetFile/1.8.0_301-b09/d3c52aa6bfa54d3ca74e617f18309292/unix-i586/jre-8u301-macosx-x64.dmg",
+			"size":87086461,
+			"totalSize":87089152,
+			"sha256":"5d95b821fd7b69470ba9ce6df2504c14c6ef5b5d20dc685dfd4ec420062b8417",
+			"md5":"9ad4cd679d846d789f939c89c939c42a"
+		},
+		{
+			"os": {
+				"name":"macosx",
+				"arch":"x64"
+			},
+			"file": {
+				"type":"tar.gz",
+				"name":"jre-8u301-macosx-x64.tar.gz"
+			},
+			"url":"https://javadl.oracle.com/webapps/download/GetFile/1.8.0_301-b09/d3c52aa6bfa54d3ca74e617f18309292/unix-i586/jre-8u301-macosx-x64.tar.gz",
+			"size":79687221,
+			"totalSize":79687680,
+			"sha256":"cf27c01f16ea32fe38abebd8e1ab65458f5bb131965a3a4ed0c760fffac5f799",
+			"md5":"08a7d9b87d8de269400fdc5a3f02c6de"
+		},
+		{
+			"os": {
+				"name":"solaris",
+				"arch":"sparcv9"
+			},
+			"file": {
+				"type":"tar.gz",
+				"name":"jre-8u301-solaris-sparcv9.tar.gz"
+			},
+			"url":"https://javadl.oracle.com/webapps/download/GetFile/1.8.0_301-b09/d3c52aa6bfa54d3ca74e617f18309292/solaris-i586/jre-8u301-solaris-sparcv9.tar.gz",
+			"size":55341316,
+			"totalSize":55345152,
+			"sha256":"28a2aba21b39471628200f6526091f80f4030b4073c5639f6ee56cdedc74bdee",
+			"md5":"492848c2bf6ae10de94b0944cae98fb4"
+		},
+		{
+			"os": {
+				"name":"solaris",
+				"arch":"x64"
+			},
+			"file": {
+				"type":"tar.gz",
+				"name":"jre-8u301-solaris-x64.tar.gz"
+			},
+			"url":"https://javadl.oracle.com/webapps/download/GetFile/1.8.0_301-b09/d3c52aa6bfa54d3ca74e617f18309292/solaris-i586/jre-8u301-solaris-x64.tar.gz",
+			"size":53145201,
+			"totalSize":53145600,
+			"sha256":"faf815c8e8858a79f3ad3da1046375b763a83a2eeedc6dd89c8b00293e3f7c05",
+			"md5":"300908bf86ba3c7d88a66a77fe5d4a16"
+		},
+		{
+			"os": {
+				"name":"windows",
+				"arch":"i586-iftw"
+			},
+			"file": {
+				"type":"exe",
+				"name":"jre-8u301-windows-i586-iftw.exe"
+			},
+			"url":"https://javadl.oracle.com/webapps/download/GetFile/1.8.0_301-b09/d3c52aa6bfa54d3ca74e617f18309292/windows-i586/jre-8u301-windows-i586-iftw.exe",
+			"size":2102080,
+			"totalSize":2105344,
+			"sha256":"acff6900617d8a666551747488192c380fdd679242cab02df7f9d466926f785b",
+			"md5":"958f5865a407df2db9df21df34ef6543"
+		},
+		{
+			"os": {
+				"name":"windows",
+				"arch":"i586"
+			},
+			"file": {
+				"type":"exe",
+				"name":"jre-8u301-windows-i586.exe"
+			},
+			"url":"https://javadl.oracle.com/webapps/download/GetFile/1.8.0_301-b09/d3c52aa6bfa54d3ca74e617f18309292/windows-i586/jre-8u301-windows-i586.exe",
+			"size":74155328,
+			"totalSize":74158080,
+			"sha256":"dbebb7fa56d23398e2a99c73cbeaee60811c7ef54eb9fc38a5b91b38c4160998",
+			"md5":"cc0659641171c518a487d2b559f94bcd"
+		},
+		{
+			"os": {
+				"name":"windows",
+				"arch":"i586"
+			},
+			"file": {
+				"type":"tar.gz",
+				"name":"jre-8u301-windows-i586.tar.gz"
+			},
+			"url":"https://javadl.oracle.com/webapps/download/GetFile/1.8.0_301-b09/d3c52aa6bfa54d3ca74e617f18309292/windows-i586/jre-8u301-windows-i586.tar.gz",
+			"size":72927174,
+			"totalSize":72929280,
+			"sha256":"d2ad766fa711071a96a6d01e1f26e290b5c49dcc25da29d29738470638f4e472",
+			"md5":"1169b0ed182b621dfeb2210b5b10d0cc"
+		},
+		{
+			"os": {
+				"name":"windows",
+				"arch":"x64"
+			},
+			"file": {
+				"type":"exe",
+				"name":"jre-8u301-windows-x64.exe"
+			},
+			"url":"https://javadl.oracle.com/webapps/download/GetFile/1.8.0_301-b09/d3c52aa6bfa54d3ca74e617f18309292/windows-i586/jre-8u301-windows-x64.exe",
+			"size":85023552,
+			"totalSize":85024768,
+			"sha256":"1cf9440a5671d861aa3883832b2febd4a13e3bd34a06d703a53b6234eac1309f",
+			"md5":"c8402893470d1a19a03560ef1a18e1c9"
+		},
+		{
+			"os": {
+				"name":"windows",
+				"arch":"x64"
+			},
+			"file": {
+				"type":"tar.gz",
+				"name":"jre-8u301-windows-x64.tar.gz"
+			},
+			"url":"https://javadl.oracle.com/webapps/download/GetFile/1.8.0_301-b09/d3c52aa6bfa54d3ca74e617f18309292/windows-i586/jre-8u301-windows-x64.tar.gz",
+			"size":78984391,
+			"totalSize":78987264,
+			"sha256":"1205d90bfc9c378442949cc77e70d6cbcad064ed1093eaa943b9ce1d3c1f651e",
+			"md5":"ad479bdb9b334e87bb277e688c5b2fa1"
+		},
+	]
+}
