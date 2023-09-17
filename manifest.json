@@ -4,10 +4,10 @@
 			"majorVersion":8,
 			"minorVersion":301,
 			"url":"https://raw.githubusercontent.com/fluffydaddy/oracle_repo/main/jre/8u301/repo.json",
-			"size":6284,
+			"size":6084,
 			"totalSize":8192,
-			"sha256":"7e6709103e2150e6d20c3069fa6169981e0b4c2295a670c961fe36b79058611f",
-			"md5":"e27bb0e25f819f844fb1a573a54b40a3"
+			"sha256":"146b400d3eb3dfbe076ec82938ef4eec0d0e4f77ccf9f1aaeafb2c564819d57c",
+			"md5":"a0267b0fe61a9e219f5c799f60a44956"
 		}
 	],
 	"jdk": [
