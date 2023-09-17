@@ -1,0 +1,16 @@
+{
+	"jre": [
+		{
+			"majorVersion":8,
+			"minorVersion":301,
+			"url":"https://raw.githubusercontent.com/fluffydaddy/oracle_repo/main/jre/8u301/repo.json",
+			"size":6284,
+			"totalSize":8192,
+			"sha256":"d2e629e9f368ee3008c4cdc7aedd32416bc8ceb506e5be5a1f41180f78183784",
+			"md5":"406e10a1993b55765ef78dd35bac2015"
+		},
+	],
+	"jdk": [
+		
+	]
+}
